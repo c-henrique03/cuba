@@ -55,7 +55,7 @@ body{
     transform: rotateY(0deg) rotateX(0deg);
   }
   to{
-    transform: rotateY(360deg) rotateX(360deg);
+    transform: rotateY(1015deg) rotateX(1005deg);
 
   }
 }
